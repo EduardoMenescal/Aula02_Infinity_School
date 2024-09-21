@@ -1,3 +1,6 @@
+'''
+cálculo da área do triângulo
+'''
 
 base = float(input("Por favor, informe a base do triângulo: "))
 altura = float(input("Por favor, informe a altura do triângulo: "))
